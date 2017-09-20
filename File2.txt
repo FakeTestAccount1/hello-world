@@ -1,2 +1,3 @@
 Example content 2.
+GitHub content 2.
 Additional content 2.
